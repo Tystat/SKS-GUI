@@ -1,0 +1,1 @@
+capturer raccourci clavier : bouton appuyé -> attente d'un appui clavier -> sauvegarde d'un qKeyEvent -> qKeyEvent.nativescancode 
